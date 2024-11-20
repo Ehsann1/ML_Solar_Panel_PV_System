@@ -75,7 +75,7 @@ To run this project, you need to install the following Python libraries:
 - `xgboost`: For XGBoost.
 - `lightgbm`: For LightGBM.
 
-To install the dependencies, run the following command:
+To install the all dependencies, run the following command:
 
 ```bash
-pip install scikit-learn xgboost lightgbm
+pip install -r requirements.txt
